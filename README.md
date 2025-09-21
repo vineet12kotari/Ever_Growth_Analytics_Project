@@ -46,3 +46,22 @@ This section highlights the specific data preparation skills demonstrated in the
 ## 📁 Dataset Location
 
 To make this project reproducible, all data and SQL scripts are included in the repository. The folder structure is as follows:
+/Ever_Growth_Analytics_Project
+├── .gitignore
+├── README.md
+├── Ever_Growth_Analytics.pbix
+└── Data/
+├── Sellers Data/
+│   ├── seller_1.csv
+│   └── seller_2.csv
+│   └── ...
+├── Flat Files/
+│   ├── JSON File/
+│   │   └── products_data.json
+│   └── CSV Files/
+│       ├── customers_data.csv
+│       ├── orders_data.csv
+│       └── geolocation_data.csv
+└── SQL/
+├── create_tables.sql
+└── load_data.sql
