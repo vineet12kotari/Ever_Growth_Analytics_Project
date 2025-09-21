@@ -68,7 +68,7 @@ To make this project reproducible, all data and SQL scripts are included in the 
 
 ### Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview](https://github.com/vineet12kotari/Ever_Growth_Analytics_Project/blob/main/Snapshot_Data_Modelling.png)
 
 
 
